@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TRP12",
+        "completed": 4650,
+        "inProgress": 200,
+        "distanceByBike": 6834,
+        "massTransit": 2856,
+        "averageTrip": 6,
+        "timeElapsed": "2 hr 30 min",
+        "eBikes": 105,
+        "cabs": 50,
+        "buses": 15
+    }
+]
