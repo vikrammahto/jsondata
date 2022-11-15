@@ -1,5 +1,4 @@
-[
-    {
+   {
         "id": "TRP12",
         "completed": 4650,
         "inProgress": 200,
@@ -11,4 +10,3 @@
         "cabs": 50,
         "buses": 15
     }
-]
